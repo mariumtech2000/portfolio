@@ -1,0 +1,46 @@
+body{
+	margin: 10px;
+	font-family: roboto,sans-serif;
+	opacity: 0.7;
+
+
+}
+
+div{
+	background-color: #fefcda;
+	height: 300px;
+	width: 450px;
+	border: 2px solid #f1f1d4;
+
+
+
+}
+section{
+	padding: 5px;
+	margin: 5px;
+}
+
+
+h1{
+	margin: 0px;
+	padding-left: 5px;
+	color: grey;
+	height: 20px;
+	font-size: 18px;
+	font-weight: bold;	
+}
+
+p{
+	display: inline-block;
+	color: grey;
+}
+
+#stack{
+	color: grey;
+}
+span{
+	font-weight: bold;
+	color: blue;
+	margin: 0px;
+	padding: 13px;
+}

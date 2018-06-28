@@ -1,0 +1,86 @@
+body{
+	background-image: url("live-img.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.header img {
+    margin: 5px;
+    border: 5px;
+    border-radius: 4px;
+    float: left;
+    height: 200px;
+    background-color: #555;
+
+
+}
+
+.header h1 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-size: 500%;
+    color: green;
+
+
+ }
+
+ ul {
+    list-style-type:none;
+    margin:0px;
+    padding:10px;
+    overflow: hidden;
+    background-color:#38352c;
+}
+
+li {
+    float: left;
+}
+
+li a {
+
+    display:inline-block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    position: relative; 
+}
+
+li a:hover {
+    background-color: green;
+}
+ul {
+    list-style-type:none;
+    margin: 10;
+    padding: 10;
+    overflow:hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+#wxyz{
+	border-radius:50%;
+}
+
+#wxyz:hover{
+    opacity: 0.4;
+
+}
+.abcd{
+    background-color:wheat;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+
+}
+
+
+
+
+
+
+
+

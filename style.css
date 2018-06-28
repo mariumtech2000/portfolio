@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #fddf7d;
+    font-family: cursive;
+    font-size: 200%;
+    margin: 0px;
+    cursor: pointer;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: #5f266c;
+}
+
+a:hover{
+    color: gold;
+}
+
+header :hover{
+    color: gold;
+
+}
+
+#mockups{
+	padding: 0px;
+	float:right;
+   
+}
+
+header{
+    text-align: center;
+    background-color: teal;
+    padding: 50px;
+}
+
+h1{
+    color:white;
+}
+
+.timeline{
+    position: relative;
+    min-width: 1200px;
+    margin: 0 auto;
+}
+.timeline:after{
+    content:'';
+    position: absolute;
+    width: 70px;
+    background: linear-gradient(#b93acf,tomato,#2579bc,#bfc117,#a617c1);
+    top: 0;
+    bottom: 0;
+
+    
+}
+
+.container{
+    padding: 20px 50px;
+    position: relative;
+    background-color: inherit;
+    width: 70%;
+}
+
+.container:after{
+    content: '';
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: #ffc512;
+    border: 4px solid #000000;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+    left: 1%;
+    
+}
+
+
+.left:before{
+    content: '';
+    height: 0px;
+    position: absolute;
+    top:22px;
+    width: 0px;
+    z-index: 1;
+    right: 30px;
+  
+}
+
+
+.content{
+	margin-left:40px;
+    	padding: 30px 30px;
+    	background-color:#439e7b;
+    	position: relative;
+    	border-radius: 6px; 
+}
+
+footer{
+    background-color: teal; 
+    color: white; 
+    font-size: 30px; 
+    text-align: center;
+    display: inline-block;
+    height: 130px;
+    width: 100%;
+}
+
+span:hover {
+    color: red;
+}
+
+

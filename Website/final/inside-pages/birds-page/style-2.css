@@ -1,0 +1,92 @@
+body{
+	 margin: 100px 100px 150px 80px;
+	 background-image: url(flying-eagle-wp.jpg);
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 text-align: center;
+	 font-size: 120%;
+	 color: white;
+}
+h1{
+	font-size: 300%;
+	color: black;
+}
+
+h2{
+	font-size:200%;
+	color:black;
+}
+
+.crow{
+	margin: 100px 100px 150px 80px;
+	background-image: url(crow-wp1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#cr1{
+	color:white;
+	text-align: center;
+	font-size: 300%;
+
+}
+#cr2{
+	color: white;
+	text-align: center;
+	font-size: 200%;
+}
+.cr3{
+	color: yellow;
+	font-size:100%;
+}
+#cr4{
+	color:purple;
+	font-size: 100%;
+}
+.parrot{
+	margin: 100px 100px 150px 80px;
+	background-image: url(parrot-wp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.pr3{
+	color: gold;
+	text-align: center;
+}
+#pr4{
+	color: pink;
+	text-align: center;
+}
+
+.pigeon1{
+	margin: 100px 100px 150px 80px;
+	background-image: url(sky-in-bird-img.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.pi3{
+	color:white;
+	font-size: 120%;
+}
+
+.pi4{
+	color: black;
+	font-size: 30px;
+
+}
+
+.sparrow{
+	background-image: url(sparrow.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+#sp1{
+	margin: 100px 100px 150px 80px;
+
+	color:black;
+	font-size: 150;
+}
+
+

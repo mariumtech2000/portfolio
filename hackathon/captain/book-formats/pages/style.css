@@ -1,0 +1,71 @@
+body{
+	display:flex;
+	position: fixed;
+	
+}
+
+
+div{
+	border:2px solid #a9acb2;
+	display: inline-block;
+	height: 50px;
+	width:130px;
+	color: #4f6271;
+	margin: 10px;
+	padding: 0px;
+	border-radius: 5px;
+}
+
+.ppp{
+	border-color: #ed9862;
+	color: black;
+	background-color: #fef8f2;
+
+}
+div > span{
+	color: #b53b28;
+}
+div > strong{
+	color: #f8c077;
+}
+
+#red{
+	color:#b23221;
+}
+#blue{
+	color: #0c66c0;
+}
+
+div .qqqq{
+	margin: 10px;
+	border:none;
+}
+
+div #rrr{
+	border: none;
+	margin: 10px;
+}
+div #uuuu{
+	border: none;
+	margin: 10px;
+}
+
+div #zzz{
+	border: none;
+	margin: 10px;
+}
+
+div #sss{
+	border: none;
+	margin: -1px;
+}
+
+div #wwww{
+	border: none;
+	margin: 10px;
+}
+
+.kkkk{
+	padding: 16px;
+}
+

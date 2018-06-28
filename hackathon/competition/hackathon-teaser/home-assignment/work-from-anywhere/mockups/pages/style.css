@@ -1,0 +1,116 @@
+figure{
+	border:1px solid #dfe0bd;
+	display: inline-block;
+    height: 680px;
+    width: 350px;
+    font-family: 'Roboto', sans-serif;
+
+}
+section{
+	margin-left: 10px;
+}
+#p1{
+	margin-top: -10px;
+    
+}
+.bo{
+	padding-top: 10px;
+	padding-bottom:10px;
+	/*border: 1px solid green*/;
+	margin-left: 20px;
+    height: 127px;
+    width: 300px;
+    border-bottom: 1px solid #dfe0bd;
+    cursor: pointer;
+   /* border:2px solid black;*/
+}
+p{
+	color: #828c93;
+	    padding: 10px 0px 0px 3px;
+	    margin:0px;
+	    padding-left: 10px;
+}
+#h3{
+
+	color: #7375d2;
+	height: 40px;
+    width: 312px;
+    padding-left: 10px;
+   /* position: absolute;*/
+    
+}
+.first-div{
+	background: linear-gradient(to right, #00cd91 , #0080e9);
+	color:#ffffff;
+	/*text-align: center;*/
+	height: 50px;
+    width: 350px;
+    padding-top: 25px;
+    margin: 0px;
+}
+h3{
+	margin-top: 10px;
+	margin: 5px;
+}
+
+h2{
+	text-align: center;
+	margin: 0px;
+}
+{
+	color:#e3b64a;
+}
+#green{
+	color: #00b364;
+	margin:0px 0px 0px 0px;
+	margin-left: 12px;
+
+}
+button{
+	color: #4471bb;
+	border:none;
+	margin-left: 10px;
+	margin-top: 4px;
+	background-color: #ddecf6;
+	padding:5px 5px 5px 5px;
+
+}
+#orange{
+	color: #eec752;
+}
+.lastbutton{
+	margin-top: 40px;
+	background-color: #0083ff;
+	color:white;
+	border:1px solid #0069d2;
+}
+.xxx{
+	padding-top: 10px;
+	padding-bottom:10px;
+	
+	margin-left: 20px;
+    height: 127px;
+    width: 300px;
+   
+}
+#h3:hover{
+	color: skyblue;
+
+
+}
+div .cut{
+	opacity: 0;
+	margin-left: 296px;
+	margin-top: -26px;
+}
+div:hover .cut{
+	/*background-color: yellow;*/
+	opacity: 1;
+
+}
+div:active .cut{
+	color: gray;
+}
+button:active{
+	outline: none;
+}

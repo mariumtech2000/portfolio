@@ -1,0 +1,16 @@
+body {
+    margin: 100px 100px 150px 80px;
+    background-image: url("guess-me-wp.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;   
+}
+#spara1{
+	color: gold;
+	font-size: 50px;
+}
+#zzz{
+	color: cyan;
+	font-size: 30px;
+}
+

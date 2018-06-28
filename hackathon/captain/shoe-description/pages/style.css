@@ -1,0 +1,142 @@
+body{
+	background-color: white;
+	display: flex;
+	cursor:pointer;
+	
+}
+
+img{
+	padding:5px;
+
+}
+
+#para1{
+	color: #635e5e;
+	padding: 4px;
+	margin: 5px;
+}
+
+div{
+	height: 700px;
+	width: 500px;
+	border: 0px solid #f4f4f4;
+	padding: 10px;
+	font-family: roboto, sans-serif;
+}
+
+h1{
+	margin:5px;
+}
+
+h2{
+	margin:6px;
+}
+
+
+
+.orange{
+	color: grey;
+	margin: 10px;
+	padding: 0px;
+	left: 10px;
+
+}
+
+.style{
+	color: grey;
+	margin: 0px;
+	padding: 10px;
+	right: -290px;
+	position: relative;
+}
+
+#img2{
+	border: 5px solid #dfdfdf;
+	padding:5px;
+	margin:10px;
+}
+#true{
+	background-color:#f7f7f7;
+	height: 40px;
+	width: 480px;
+	margin: 10px;
+	padding: 15px;
+}
+
+#size{
+	background-color:#dddddd;
+	height:45px;
+	width:200px;
+	margin:10px;
+	border:none;
+	color:grey;
+	cursor:pointer;
+
+
+	
+}
+
+#cart{
+	background-color:#ee5230;
+	height:45px;
+	width:200px;
+	margin:8px;
+	border:none;
+	color:white;
+	cursor:pointer;	
+}
+
+
+.div{
+	height:20px;
+	border: 0px solid #f4f4f4;
+	padding: 0px;
+	
+}
+
+#chart{
+	padding:5px;
+	margin:10px;
+	color:grey;
+	text-decoration:underline;
+}
+
+#save{
+	float:right;
+	color:grey;
+	padding:5px;
+	text-decoration:underline;
+}
+
+#share{
+	padding:5px;
+	float:right;
+	color:grey;
+	text-decoration:underline;
+}
+#para{
+	color:black;
+	padding:0px;
+	margin:10px;
+}
+
+
+article > p{
+
+	color: #635e5e;
+	padding: 0px;
+	margin:5px;
+}
+
+a:link{
+	color:grey;	
+}
+
+a:visited{
+	color:orange;
+}
+
+a:hover{
+	color:pink;
+}
+
